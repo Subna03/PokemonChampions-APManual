@@ -22,8 +22,11 @@ You basically collect 2 checks per combat win:
 # Items
 - +1 move slots
 -# Each one lets you use one additional Move Slot.
+
 -# 1 → Slots #1-2
+
 -# 2 → Slots #1-3
+
 -# 3 → Slots #1-4
 
 - Mega Ring
@@ -31,14 +34,21 @@ You basically collect 2 checks per combat win:
 -# Unlock use of Mega Stones and MegaEvolutions in combats!
 
 - Equipable Items: They do come in license packs that you'll receive through the multiworld:
+
    - Survival Kit License
+
    - Damage Boosters Kit License
+
    - Tactical Kit License
+   
    - Field Kit License
+
    - Type Boosters I and II Kit License
+  
    - Botanical Kit License
+
    - Typeguard Botanical License I and II
--# (I'll post content of each pack has on a follow up message)
+  
 - Round pass
 - Final Round Pass
 
