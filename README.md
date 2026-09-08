@@ -72,7 +72,11 @@ Doesn't matter if you lose midway there, just keep battling until you've obtaine
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 Mega Stones Kits:
-(In progress)
+<img width="1280" height="1084" alt="image" src="https://github.com/user-attachments/assets/b55d6432-9432-4c08-8d64-ff84196c6dc5" />
+<img width="1280" height="1088" alt="image" src="https://github.com/user-attachments/assets/f6be2410-cea7-4098-98c4-7031775faffe" />
+<img width="1280" height="1084" alt="image" src="https://github.com/user-attachments/assets/ab01567c-0b15-4581-989f-3f5a0093de50" />
+<img width="1280" height="1085" alt="image" src="https://github.com/user-attachments/assets/a0e66321-5567-4dd2-9d68-68af8e4aeeab" />
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 Discord chat (Manual Server): https://discord.com/channels/1097532591650910289/1544923123353255956/1544923123353255956
