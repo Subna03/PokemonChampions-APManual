@@ -8,9 +8,10 @@ Pokémon Champions is a free-to-start, cross-platform competitive battling game 
 To play this manual, you can start by creating any team you desire, with any pokemon at your possession. The system this games has it's already pretty randomized anyways.
 
 However, there'll be restrictions, at the start of the game:
-- ** You're not going to be able to use** **your __Pokemon's Move slots #2,#3 and #4.__**
-- ** You're not going to be able to use** **__Mega Evolution__**
-- and **You're not going to be able to use** **__equipable Items__**
+- ** You're not going to be able to use** **your __Pokemon's Move slots #2,#3 and #4.__** (if choosen)
+- ** You're not going to be able to use** **__Mega Evolution__** (if choosen)
+- ** You're not going to be able to use** **__equipable Items__** 
+- and ** You won't be able **__to select your whole team from start of battles__** (if choosen)
 
 These will all be obtained through items on the multiworld.
 
@@ -28,6 +29,9 @@ You basically collect 2 checks per combat win:
 -# 2 → Slots #1-3
 
 -# 3 → Slots #1-4
+
+- +1 Pokemon in Battle
+-# You can choose to start your seed with a minimum team of 3 PKMN, meaning you're forced to only bring 3 that'll you'll always use until you get to fill the missing spots with this item.
 
 - Mega Ring
 - Mega Stones
@@ -48,13 +52,15 @@ You basically collect 2 checks per combat win:
    - Botanical Kit License
 
    - Typeguard Botanical License I and II
-  
+
+- 
 - Round pass
 - Final Round Pass
 
 # Goal
-Your goal is as straightforward as to __win 10 fights.__ 
-Doesn't matter if you lose midway there, just keep battling until you've obtained 10 victories.
+Your goal is as straightforward as to __win X fights.__ 
+(X = a number of 5 min to 20 max combats.)
+Doesn't matter if you lose midway there, just keep battling until you've obtained all of your victories.
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Notes / Misc.
 - Deathlink can be enabled. If you receive one, you shall run off from your current fight.
@@ -65,17 +71,16 @@ Doesn't matter if you lose midway there, just keep battling until you've obtaine
 
 # Item kits:
 
-<img width="1602" height="1475" alt="image" src="https://github.com/user-attachments/assets/3ed6e3de-1792-4244-ae14-764a6f215336" />
-<img width="1602" height="1475" alt="image" src="https://github.com/user-attachments/assets/c9f7389b-d214-468d-a2dc-7adc975afe15" />
+<img width="1602" height="1475" alt="image" src="https://github.com/user-attachments/assets/81cde5fe-c11a-45ae-a383-c39891c45ffa" />
+<img width="1602" height="1475" alt="image" src="https://github.com/user-attachments/assets/bc7d081d-b155-444a-b334-4559ab4b3653" />
 <img width="1602" height="1475" alt="image" src="https://github.com/user-attachments/assets/7577b46b-9ea6-4189-964c-f2221cfadc1e" />
-
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 # Mega Stones Kits:
-<img width="1280" height="1084" alt="image" src="https://github.com/user-attachments/assets/b55d6432-9432-4c08-8d64-ff84196c6dc5" />
-<img width="1280" height="1088" alt="image" src="https://github.com/user-attachments/assets/f6be2410-cea7-4098-98c4-7031775faffe" />
-<img width="1280" height="1084" alt="image" src="https://github.com/user-attachments/assets/ab01567c-0b15-4581-989f-3f5a0093de50" />
-<img width="1280" height="1085" alt="image" src="https://github.com/user-attachments/assets/a0e66321-5567-4dd2-9d68-68af8e4aeeab" />
+<img width="1280" height="1088" alt="image" src="https://github.com/user-attachments/assets/d2e2e106-6902-4ad9-b21f-3748c9181626" />
+<img width="1280" height="1088" alt="image" src="https://github.com/user-attachments/assets/7e831ab5-b9e7-4064-a907-d837001cb2bb" />
+<img width="1280" height="1112" alt="image" src="https://github.com/user-attachments/assets/b185b774-26e6-44b6-bf04-88eec1253f46" />
+<img width="1280" height="1134" alt="image" src="https://github.com/user-attachments/assets/4c7bb2f8-f0d7-4da4-8144-bce6b25446be" />
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
